@@ -44,3 +44,9 @@ Joseph Hsu
     > KEYS hi*
     1) "hi"
     1) "hide"
+
+!SLIDE
+* lpop - remove the first entry in a list
+* rpush - append to a list
+
+useful for queueing
